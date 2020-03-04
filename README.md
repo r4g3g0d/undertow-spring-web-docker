@@ -4,7 +4,7 @@
 
 
 
-Digital Ocean prerequisites
+## Digital Ocean prerequisites
   1. Go to https://www.digitalocean.com/. Sign up.
   2. After Sign-In, in order to create a Droplet click Create -> Droplets. Default configurations of the droplet can be changed if it's required.
   3. Create Droplet. Wait.
@@ -45,7 +45,7 @@ sudo apt-get install docker-ce
 
 
 
-##Local Machine Docker prerequisites
+## Local Machine Docker prerequisites
   1. Download Docker for desktop. Sign up.
   2. Go to the to be deployed project pom.xml path and build the project : ```mvn clean install ```
   3. Create Dockerfile. Populate it with the following code :  
