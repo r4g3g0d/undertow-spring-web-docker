@@ -1,4 +1,4 @@
-# Deploying Spring Based JAR Application to Docker
+# Deploying Spring Based JAR Application to Docker using Digital Ocean
 
                 
 
@@ -7,7 +7,7 @@
 ## Digital Ocean prerequisites
   1. Go to https://www.digitalocean.com/. Sign up.
   2. After Sign-In, in order to create a Droplet click Create -> Droplets. Default configurations of the droplet can be changed if it's required.
-  3. Create Droplet. Wait.
+  3. Create Droplet.
   4. After the Droplet is created you will receive and email where IP Address,Username and Password is specified.
   5. Create a ssh connection by executing the following unix command :  
      ```ssh username@IPAddress```
