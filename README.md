@@ -36,11 +36,11 @@ sudo apt-get update
 sudo apt-get install docker-ce
 ```
 
-  7. Give the newly created script execution rights by executing the following unix command :
+  8. Give the newly created script execution rights by executing the following unix command :
       chmod +x install-docker.sh
 
-  8. Run the newly created script :    sudo ./install-docker.sh
-  9. Verify the docker installation by running the hello world image :
+  9. Run the newly created script :    sudo ./install-docker.sh
+  10. Verify the docker installation by running the hello world image :
       sudo docker run hello-world
 
 
